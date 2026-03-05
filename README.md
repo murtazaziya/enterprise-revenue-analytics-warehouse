@@ -111,7 +111,7 @@ to reload recent partitions where data corrections may occur.
 
 ## Power BI Dashboard
 
-![Dashboard](screenshot/revenue_overview.png)
+![Revenue Overview](screenshot/revenue_overview.png)
 
 ### Dashboard Pages
 
