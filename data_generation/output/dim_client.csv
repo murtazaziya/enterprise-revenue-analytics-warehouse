@@ -1,0 +1,251 @@
+client_id,client_name,industry,client_tier,hq_region_id,created_date
+CL00001,Rodriguez Figueroa and Sanchez,Insurance,Mid-Market,RG00006,2021-04-29
+CL00002,Garcia Yang and Gardner,Education,SMB,RG00005,2023-09-23
+CL00003,Johnson and Sons,Healthcare,Enterprise,RG00001,2022-02-12
+CL00004,Guzman Hoffman and Baldwin,Banking,Mid-Market,RG00003,2024-10-10
+CL00005,Robinson-Lawrence,Healthcare,SMB,RG00003,2020-03-12
+CL00006,Wolfe LLC,Retail,SMB,RG00001,2022-07-03
+CL00007,Lewis LLC,Manufacturing,Enterprise,RG00005,2021-01-03
+CL00008,James LLC,Healthcare,Enterprise,RG00006,2023-01-24
+CL00009,Baker Williams and Stevens,Logistics,Mid-Market,RG00004,2021-03-14
+CL00010,Miller-Carter,Retail,Mid-Market,RG00006,2023-03-20
+CL00011,Lee Jones and Stanley,Manufacturing,Mid-Market,RG00006,2022-08-08
+CL00012,Wyatt Inc,Retail,SMB,RG00002,2023-05-17
+CL00013,Chavez-Flowers,Healthcare,Enterprise,RG00002,2021-07-10
+CL00014,Kelly-Santiago,Retail,Mid-Market,RG00004,2020-09-29
+CL00015,Reid Ferguson and Sanchez,Manufacturing,SMB,RG00003,2024-01-27
+CL00016,Nelson-Schaefer,Insurance,Mid-Market,RG00006,2024-11-16
+CL00017,Cohen Inc,Retail,Mid-Market,RG00002,2022-02-01
+CL00018,Trujillo Group,Insurance,SMB,RG00004,2022-06-01
+CL00019,Clark PLC,Healthcare,Enterprise,RG00006,2022-10-25
+CL00020,Rios Group,Insurance,Mid-Market,RG00001,2024-01-16
+CL00021,Baker and Sons,Insurance,Enterprise,RG00003,2024-11-30
+CL00022,Baker Richards and Hurst,Education,SMB,RG00002,2023-07-15
+CL00023,Robinson-Bright,Manufacturing,SMB,RG00004,2024-06-22
+CL00024,Davis-Williams,Education,Enterprise,RG00006,2021-01-26
+CL00025,Burton Ltd,Logistics,SMB,RG00002,2023-09-24
+CL00026,Brown James and Ferrell,Insurance,Mid-Market,RG00005,2024-08-21
+CL00027,Maddox-Valencia,Healthcare,Mid-Market,RG00004,2020-03-27
+CL00028,Le Maldonado and Herrera,Education,Mid-Market,RG00002,2022-05-29
+CL00029,Peterson Carter and Moore,Logistics,SMB,RG00001,2020-03-02
+CL00030,Liu Baker and Mason,Retail,SMB,RG00002,2021-08-29
+CL00031,Gaines Harrell and Evans,Education,Mid-Market,RG00004,2024-06-16
+CL00032,Gonzalez Brooks and Martin,Education,Mid-Market,RG00004,2024-08-25
+CL00033,George Group,Healthcare,Enterprise,RG00001,2020-04-21
+CL00034,Hickman LLC,Retail,Mid-Market,RG00005,2022-03-05
+CL00035,Allen PLC,Healthcare,Enterprise,RG00003,2020-10-22
+CL00036,Dennis Inc,Retail,SMB,RG00002,2024-09-02
+CL00037,Anderson Group,Logistics,SMB,RG00006,2024-10-25
+CL00038,Baker PLC,Healthcare,Enterprise,RG00002,2023-09-27
+CL00039,Hickman Ltd,Retail,Enterprise,RG00003,2021-11-06
+CL00040,Collins Carney and Santos,Insurance,SMB,RG00002,2023-11-13
+CL00041,Hayes Wright and Brown,SaaS,Mid-Market,RG00004,2020-04-26
+CL00042,Spencer Chapman and Smith,SaaS,SMB,RG00003,2020-08-21
+CL00043,Jones Inc,Healthcare,SMB,RG00002,2022-12-13
+CL00044,Palmer LLC,Retail,SMB,RG00004,2024-04-08
+CL00045,Ryan Ltd,Retail,Enterprise,RG00005,2024-12-30
+CL00046,Kennedy Mueller and Aguirre,Banking,SMB,RG00004,2021-10-04
+CL00047,Davis Group,Banking,SMB,RG00005,2023-02-25
+CL00048,Jenkins-Shields,Education,Enterprise,RG00005,2020-08-07
+CL00049,Valdez Lucas and Brown,Insurance,Mid-Market,RG00004,2023-01-10
+CL00050,Wright and Sons,Manufacturing,Mid-Market,RG00005,2024-09-13
+CL00051,Taylor-White,Logistics,SMB,RG00002,2024-01-28
+CL00052,Baxter Inc,Retail,SMB,RG00005,2023-11-28
+CL00053,Garcia Pearson and Fernandez,Insurance,Mid-Market,RG00001,2020-04-06
+CL00054,House and Sons,Retail,Mid-Market,RG00001,2021-07-21
+CL00055,Tucker-Lewis,Insurance,SMB,RG00001,2023-07-20
+CL00056,Martin Inc,Manufacturing,SMB,RG00002,2023-06-17
+CL00057,House-Glover,Healthcare,Mid-Market,RG00002,2022-07-26
+CL00058,Horton-Cross,Banking,Mid-Market,RG00005,2024-11-12
+CL00059,Higgins Moore and Phillips,Logistics,SMB,RG00004,2020-08-20
+CL00060,Fitzgerald Brown and Edwards,Education,SMB,RG00001,2020-07-25
+CL00061,Woods Calhoun and Schmidt,Education,Mid-Market,RG00004,2020-08-15
+CL00062,Miller Lopez and Larson,Logistics,Enterprise,RG00001,2022-02-20
+CL00063,Wilson-Zamora,Retail,SMB,RG00006,2022-03-26
+CL00064,Wheeler Harvey and Barnes,Manufacturing,Enterprise,RG00001,2025-02-07
+CL00065,Mills Donovan and Harris,Insurance,SMB,RG00005,2022-10-24
+CL00066,Baker and Sons,Logistics,SMB,RG00002,2022-09-10
+CL00067,Stewart-Walton,Healthcare,Mid-Market,RG00001,2020-10-03
+CL00068,Ellis PLC,Logistics,Enterprise,RG00005,2020-12-27
+CL00069,Medina PLC,Retail,SMB,RG00005,2022-05-24
+CL00070,Mahoney Inc,SaaS,Enterprise,RG00002,2022-03-20
+CL00071,Mitchell-Kim,Banking,Mid-Market,RG00004,2024-10-04
+CL00072,Turner Riggs and Roman,Insurance,Enterprise,RG00001,2024-08-21
+CL00073,Contreras PLC,Banking,Mid-Market,RG00004,2022-09-08
+CL00074,Garcia Humphrey and Baker,Healthcare,Enterprise,RG00004,2021-01-18
+CL00075,Tran Nelson and Jacobs,Healthcare,Mid-Market,RG00006,2023-01-21
+CL00076,Watts LLC,Logistics,SMB,RG00003,2024-06-09
+CL00077,King-Odonnell,Insurance,Enterprise,RG00005,2020-07-27
+CL00078,Walters LLC,SaaS,Mid-Market,RG00001,2020-07-06
+CL00079,Cook and Sons,SaaS,Mid-Market,RG00005,2022-05-14
+CL00080,Figueroa PLC,Banking,SMB,RG00005,2023-10-11
+CL00081,Smith Jones and Ware,Retail,Enterprise,RG00001,2021-05-29
+CL00082,Johnson Wood and Tran,Retail,Mid-Market,RG00002,2023-10-18
+CL00083,Williams LLC,Education,SMB,RG00005,2020-06-23
+CL00084,Clark-Wright,Insurance,Mid-Market,RG00001,2021-01-05
+CL00085,Deleon-Henson,Retail,Mid-Market,RG00005,2023-08-06
+CL00086,Brady Frost and Young,Manufacturing,Enterprise,RG00002,2021-07-09
+CL00087,Keith Inc,Manufacturing,SMB,RG00004,2021-08-31
+CL00088,Middleton Patton and Jenkins,Banking,Mid-Market,RG00003,2022-04-02
+CL00089,Moore-Haynes,Logistics,SMB,RG00001,2023-05-24
+CL00090,Garrison and Sons,SaaS,Mid-Market,RG00005,2021-11-02
+CL00091,Bailey-Hoover,Retail,SMB,RG00002,2022-01-28
+CL00092,Johnson and Sons,Healthcare,SMB,RG00003,2023-07-12
+CL00093,Ramirez-Jones,Retail,Enterprise,RG00003,2022-07-07
+CL00094,May-Ross,Healthcare,SMB,RG00005,2024-09-12
+CL00095,Crosby-Wilson,Healthcare,Mid-Market,RG00006,2022-05-12
+CL00096,Carpenter LLC,SaaS,Mid-Market,RG00005,2020-06-18
+CL00097,Carlson LLC,Healthcare,Enterprise,RG00001,2022-10-22
+CL00098,Obrien-Dixon,Banking,SMB,RG00001,2023-06-01
+CL00099,Lee Williams and Graham,Banking,SMB,RG00005,2024-07-24
+CL00100,Mcdaniel Bentley and Mclaughlin,Insurance,Mid-Market,RG00002,2021-10-25
+CL00101,Reynolds-Rush,Healthcare,Mid-Market,RG00003,2022-12-12
+CL00102,Edwards Charles and Cortez,SaaS,SMB,RG00004,2022-09-11
+CL00103,Parker Ortiz and Powell,Healthcare,SMB,RG00003,2022-08-27
+CL00104,Martinez Fisher and Bentley,Banking,Mid-Market,RG00003,2021-08-14
+CL00105,Carroll Sullivan and Bass,Banking,Mid-Market,RG00005,2022-09-22
+CL00106,Clark-Floyd,Education,Mid-Market,RG00001,2022-11-18
+CL00107,Ramos-Lowe,Retail,Enterprise,RG00006,2024-06-27
+CL00108,Leon-Moyer,Banking,Mid-Market,RG00003,2021-08-01
+CL00109,Miller Robertson and Schultz,Banking,Mid-Market,RG00001,2022-12-28
+CL00110,Cardenas and Sons,Healthcare,Mid-Market,RG00001,2022-10-12
+CL00111,Drake and Sons,Manufacturing,SMB,RG00002,2020-05-06
+CL00112,Sanchez Group,Retail,Mid-Market,RG00005,2020-10-04
+CL00113,Perry-Soto,Education,Enterprise,RG00006,2021-10-17
+CL00114,Horton Snyder and Sanchez,Banking,Enterprise,RG00002,2020-03-09
+CL00115,Osborne and Sons,Banking,Enterprise,RG00002,2021-08-20
+CL00116,Holmes Williams and Wright,Education,SMB,RG00006,2021-03-04
+CL00117,Anderson-Marshall,Manufacturing,Enterprise,RG00004,2024-08-28
+CL00118,Larson Dodson and Vance,Insurance,SMB,RG00006,2024-06-07
+CL00119,Rivas-Kelley,Retail,Mid-Market,RG00001,2021-06-29
+CL00120,Hensley Cole and Walton,Logistics,SMB,RG00004,2022-07-01
+CL00121,Washington Allen and Gonzales,Manufacturing,SMB,RG00002,2022-07-27
+CL00122,Nelson LLC,Insurance,SMB,RG00002,2024-09-25
+CL00123,Taylor and Sons,Education,SMB,RG00001,2023-05-26
+CL00124,Hernandez Lewis and Perry,Healthcare,Mid-Market,RG00005,2022-12-15
+CL00125,Owens Brown and Wall,Education,Mid-Market,RG00005,2023-06-15
+CL00126,Shah Smith and Gilmore,Manufacturing,Enterprise,RG00001,2025-01-13
+CL00127,Woods-Bender,Healthcare,SMB,RG00003,2022-09-05
+CL00128,Castaneda-Ashley,SaaS,SMB,RG00004,2023-09-14
+CL00129,Adkins Payne and Morrison,Manufacturing,Mid-Market,RG00003,2022-01-06
+CL00130,Robinson-Graham,Education,Mid-Market,RG00005,2020-05-21
+CL00131,Rogers-Shelton,Retail,Mid-Market,RG00005,2023-07-31
+CL00132,Martin Mcdonald and Anderson,Insurance,SMB,RG00006,2024-09-06
+CL00133,Meadows PLC,Education,SMB,RG00005,2024-12-09
+CL00134,Johnson Day and Taylor,Insurance,Mid-Market,RG00001,2024-01-25
+CL00135,Williams Group,Manufacturing,Mid-Market,RG00006,2022-12-04
+CL00136,Gibson LLC,Retail,Mid-Market,RG00003,2023-05-13
+CL00137,Walton-Decker,Healthcare,Mid-Market,RG00003,2022-04-14
+CL00138,Ruiz Ltd,Education,Mid-Market,RG00005,2024-09-22
+CL00139,Cooke LLC,Banking,SMB,RG00006,2022-01-17
+CL00140,Jones Bernard and Williams,Education,Mid-Market,RG00002,2020-05-27
+CL00141,Gonzalez Inc,Healthcare,Mid-Market,RG00001,2021-06-08
+CL00142,Martinez Ltd,Healthcare,SMB,RG00004,2021-02-10
+CL00143,Gould Marshall and Scott,Manufacturing,Mid-Market,RG00004,2023-04-12
+CL00144,Obrien Ltd,Insurance,Mid-Market,RG00006,2021-02-10
+CL00145,Oconnell Inc,Banking,Mid-Market,RG00003,2025-01-22
+CL00146,Hickman PLC,Manufacturing,SMB,RG00002,2023-05-02
+CL00147,David-Gonzalez,Healthcare,SMB,RG00002,2022-03-16
+CL00148,Terry LLC,Banking,SMB,RG00002,2021-03-03
+CL00149,Patton Reed and Patterson,Logistics,Mid-Market,RG00001,2023-04-17
+CL00150,Hunter LLC,Logistics,Mid-Market,RG00006,2020-03-31
+CL00151,Short-Garcia,Insurance,Mid-Market,RG00004,2023-03-22
+CL00152,Snow Stevens and Hernandez,Logistics,Mid-Market,RG00002,2021-08-21
+CL00153,Boyd Santos and Gilbert,SaaS,Enterprise,RG00001,2024-09-19
+CL00154,Marshall-Petersen,Education,SMB,RG00006,2022-06-03
+CL00155,Christian-Rivas,Logistics,SMB,RG00002,2020-11-16
+CL00156,Keith-Sanchez,Retail,Mid-Market,RG00004,2024-02-03
+CL00157,Bishop Gray and Johnson,Manufacturing,Enterprise,RG00004,2022-11-26
+CL00158,Freeman LLC,Education,Enterprise,RG00005,2022-05-03
+CL00159,Ramirez-Carlson,Logistics,Enterprise,RG00006,2022-06-28
+CL00160,Smith Vaughan and Miller,Logistics,Mid-Market,RG00002,2023-08-06
+CL00161,Peters-Allen,Healthcare,Enterprise,RG00005,2024-03-10
+CL00162,Joseph West and Smith,Logistics,Mid-Market,RG00003,2022-08-23
+CL00163,Sullivan and Sons,Logistics,SMB,RG00003,2022-09-29
+CL00164,Perkins Kennedy and Schmidt,Insurance,SMB,RG00003,2023-10-04
+CL00165,Pierce Bell and Chavez,Retail,SMB,RG00002,2022-09-30
+CL00166,Hall-Griffith,Education,Mid-Market,RG00006,2022-10-28
+CL00167,Newton Ltd,Insurance,SMB,RG00004,2021-09-18
+CL00168,Robinson Group,Manufacturing,Mid-Market,RG00004,2022-06-29
+CL00169,Lawrence Wolf and Carlson,SaaS,SMB,RG00004,2020-12-29
+CL00170,Phillips LLC,Education,Enterprise,RG00005,2021-08-31
+CL00171,Smith-Ferguson,SaaS,Enterprise,RG00005,2022-06-22
+CL00172,Mccann PLC,Education,Mid-Market,RG00003,2022-08-16
+CL00173,Raymond Little and Mullins,Healthcare,Enterprise,RG00004,2021-01-04
+CL00174,Andrews Group,Insurance,Mid-Market,RG00003,2024-03-18
+CL00175,Peterson-Sheppard,Education,Mid-Market,RG00004,2022-04-15
+CL00176,Wilson-Jones,Manufacturing,Mid-Market,RG00004,2024-04-27
+CL00177,Ray Ltd,Banking,Enterprise,RG00002,2020-08-05
+CL00178,Hernandez PLC,SaaS,Enterprise,RG00005,2022-09-21
+CL00179,Mcknight Inc,SaaS,SMB,RG00004,2024-11-19
+CL00180,Obrien-Gibbs,Banking,Enterprise,RG00002,2022-01-22
+CL00181,James Kerr and Evans,SaaS,SMB,RG00003,2023-10-15
+CL00182,Carroll-Brown,Insurance,Mid-Market,RG00003,2020-12-25
+CL00183,Garrett LLC,Education,SMB,RG00004,2020-10-30
+CL00184,Allen PLC,Healthcare,Enterprise,RG00004,2020-10-11
+CL00185,Smith Group,SaaS,Mid-Market,RG00001,2024-02-19
+CL00186,Johnson-Roberts,Manufacturing,SMB,RG00001,2022-07-18
+CL00187,Heath Jones and Hall,SaaS,Enterprise,RG00002,2022-05-22
+CL00188,Lawrence Lara and Gonzalez,Insurance,Enterprise,RG00005,2021-02-11
+CL00189,Walker Hernandez and Baker,Banking,SMB,RG00004,2021-05-07
+CL00190,Brown LLC,Retail,Mid-Market,RG00002,2024-12-24
+CL00191,Gonzales-Harrison,Logistics,Mid-Market,RG00003,2022-09-22
+CL00192,Powell Nelson and Fernandez,Banking,Mid-Market,RG00006,2023-11-12
+CL00193,George Group,Retail,Enterprise,RG00002,2022-11-18
+CL00194,Wright Davis and Hayden,Healthcare,SMB,RG00001,2025-01-12
+CL00195,Sampson Key and Chambers,Healthcare,Mid-Market,RG00004,2022-06-07
+CL00196,Williams Avila and Ruiz,Education,Enterprise,RG00002,2023-11-25
+CL00197,White-Richards,Retail,Mid-Market,RG00006,2024-04-27
+CL00198,Harrison Group,Insurance,SMB,RG00003,2022-12-22
+CL00199,Santiago-Hodge,Retail,Enterprise,RG00005,2022-12-11
+CL00200,Steele-Roberts,SaaS,SMB,RG00004,2023-07-19
+CL00201,Johnson Miller and King,Manufacturing,SMB,RG00006,2021-02-15
+CL00202,Hancock-Bryan,Manufacturing,SMB,RG00004,2020-02-24
+CL00203,Booth Murray and Brown,Logistics,SMB,RG00003,2024-07-19
+CL00204,Dean-Jimenez,Logistics,Mid-Market,RG00004,2023-11-25
+CL00205,Harris PLC,Banking,Mid-Market,RG00006,2021-04-03
+CL00206,Kim-Wolfe,Healthcare,Mid-Market,RG00005,2021-03-04
+CL00207,Dudley PLC,Logistics,Mid-Market,RG00006,2022-03-05
+CL00208,Moore Pierce and Tran,Healthcare,SMB,RG00002,2020-12-06
+CL00209,Gay Inc,Retail,SMB,RG00004,2024-01-24
+CL00210,Holland and Sons,Insurance,Enterprise,RG00005,2024-05-18
+CL00211,Carter Thornton and Perry,Education,SMB,RG00004,2024-03-30
+CL00212,Sanchez-Arnold,Manufacturing,SMB,RG00002,2023-05-27
+CL00213,Weeks PLC,Manufacturing,Enterprise,RG00003,2021-04-20
+CL00214,Hill Group,Healthcare,Enterprise,RG00006,2023-01-11
+CL00215,Adams Smith and Barber,Healthcare,Mid-Market,RG00005,2025-02-17
+CL00216,Duarte Burns and Hernandez,Insurance,SMB,RG00006,2024-09-20
+CL00217,Reed-Arnold,Education,Mid-Market,RG00002,2024-10-05
+CL00218,Gibson-Morris,Logistics,Mid-Market,RG00004,2021-09-29
+CL00219,Allen Reyes and Chase,Logistics,Enterprise,RG00001,2023-08-20
+CL00220,Flores Group,Healthcare,SMB,RG00006,2023-05-20
+CL00221,Mcneil-Sparks,Insurance,SMB,RG00005,2021-06-07
+CL00222,Hanna-Martinez,Manufacturing,Mid-Market,RG00005,2022-12-18
+CL00223,Sawyer Group,Manufacturing,Mid-Market,RG00006,2020-12-26
+CL00224,Lozano Smith and Thomas,Manufacturing,Mid-Market,RG00004,2021-06-14
+CL00225,Harrison LLC,Healthcare,SMB,RG00002,2023-01-07
+CL00226,Schwartz Santos and Christian,Retail,Mid-Market,RG00003,2024-09-04
+CL00227,Finley-Sims,Retail,Mid-Market,RG00006,2024-04-16
+CL00228,Johnson Jones and Welch,Banking,SMB,RG00006,2022-08-01
+CL00229,Francis Group,Logistics,SMB,RG00005,2020-12-22
+CL00230,Padilla Garcia and Jackson,Healthcare,Enterprise,RG00002,2022-09-08
+CL00231,Williams Inc,Healthcare,SMB,RG00002,2022-08-20
+CL00232,Brooks-Thomas,Healthcare,SMB,RG00005,2024-08-28
+CL00233,Knight-Sparks,Banking,SMB,RG00001,2021-08-02
+CL00234,Miller Group,Healthcare,Mid-Market,RG00002,2022-03-10
+CL00235,Durham-Thomas,Logistics,SMB,RG00001,2024-01-23
+CL00236,King Scott and Smith,Healthcare,Mid-Market,RG00004,2024-02-05
+CL00237,Byrd-Moore,Manufacturing,SMB,RG00001,2023-11-24
+CL00238,Huerta-Evans,Healthcare,Enterprise,RG00004,2023-10-01
+CL00239,Wright Bruce and Gonzalez,Retail,Enterprise,RG00004,2023-05-31
+CL00240,Rodriguez-James,Logistics,SMB,RG00006,2023-03-12
+CL00241,Phillips Lyons and Johnson,SaaS,SMB,RG00005,2023-07-04
+CL00242,Smith-Grimes,Healthcare,SMB,RG00002,2020-07-22
+CL00243,Mcgee Wall and Leach,Retail,Mid-Market,RG00004,2022-02-04
+CL00244,Pham Robinson and Lee,Insurance,Enterprise,RG00004,2022-04-09
+CL00245,Campos Saunders and Becker,Logistics,Enterprise,RG00003,2021-04-20
+CL00246,Davis Burton and Williams,Education,SMB,RG00005,2023-11-21
+CL00247,Riley Ltd,SaaS,Mid-Market,RG00006,2021-04-04
+CL00248,Browning LLC,Retail,Enterprise,RG00002,2023-09-03
+CL00249,Gonzalez PLC,Insurance,SMB,RG00001,2023-04-02
+CL00250,Shaw Nelson and Martin,Banking,SMB,RG00005,2024-03-28
